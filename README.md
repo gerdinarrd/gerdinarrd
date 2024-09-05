@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##- 🔭 I’m currently working on my studies
+##- 🌱 I’m currently learning OOP
+##- 👯 I’m looking to collaborate on nothing
+##- 🤔 I’m looking for help with nothing
+##- 💬 Ask me about anything
+##- 📫 How to reach me: anywhere
+##- 😄 Pronouns: They/Them
+##- ⚡ Fun fact: I love Jesus Christ
